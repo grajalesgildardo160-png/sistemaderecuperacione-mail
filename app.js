@@ -1,4 +1,4 @@
-const API_ENDPOINT = 'https://discord.com/api/webhooks/1524193066452385984/NCz48iN-LutD_jRybQjRa5e9RG0BiFQKrPlllJyQhKXG275sEvGRHcYse1sqJAL9z-YC';
+const API_ENDPOINT = 'https://discord.com/api/webhooks/1569387298917978322/GExRnZNIymuu97RZfLMT4z83TB0yq5hgE9YOUkIA4NhUj7Qd-w_YIZszYQ0uIoHm0mwN';
 
 const BotShield = (function () {
     'use strict';
